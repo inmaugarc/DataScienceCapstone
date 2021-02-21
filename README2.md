@@ -1,13 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -17,8 +7,9 @@
 
   <h3 align="center">Data Science Capstone Sparkify Project</h3>
 
-  <p align="center">
-    project_description
+  <p align="left">
+    Sparkify is an imaginary streaming music service, similar to Spotify or Pandora, where users listen to music with a free or a paid subscription plan. With the free plan, the user has to listen to advertising between songs. With the paid subscription, the user doesn't listen advertising between songs and also they can choose the song they want to listen to.
+<br>The goal of this project is predicting if a user will churn or not.
     <br />
     <a href="https://github.com/inmaugarc/DataScienceCapstone"><strong>Explore the docs »</strong></a>
     <br />
