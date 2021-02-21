@@ -1,5 +1,5 @@
 # Data Science Capstone: Spark Project: Sparkify
-![Alt text](./img/sparkify_churn.png?raw=true "Sparkify Music Digital Service")
+![Alt text](./img/Sparkify_churn.png?raw=true "Sparkify Music Digital Service")
 <br>Spark for Big Data
 
 <br>Sparkify is an imaginary streaming music service, similar to Spotify or Pandora, 
