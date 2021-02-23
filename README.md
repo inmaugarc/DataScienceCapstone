@@ -72,9 +72,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip install requirements.txt
   ```sh
-  npm install npm@latest -g
+  pip install requirements.txt
   ```
 
 ### Installation
@@ -97,6 +97,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+<!-- DATA SCHEMA -->
+## Data Schema
+This is the schema of the data format
+<img src="img/data_schema_sparkify.png" alt="Sparkify Data Format">
 
 
 <!-- ROADMAP -->
