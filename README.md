@@ -97,6 +97,11 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+<!-- PROJECT STEPS -->
+## Steps
+These are the steps of this project
+<img src="img/Sparkify_Steps.png" alt="Sparkify Steps">
+
 <!-- DATA SCHEMA -->
 ## Data Schema
 This is the schema of the data format
