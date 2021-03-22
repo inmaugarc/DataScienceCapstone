@@ -30,14 +30,10 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -58,25 +54,11 @@ With this project you will practice to manipulate large datasets with Spark and 
 Also you will learn how to use Spark MLlib to prepare machine learning models and apply them to large datasets.
 Predicting churn is a problem that can be encountered all over the businesses. 
 
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-* pip install requirements.txt
-  ```sh
-  pip install requirements.txt
-* Spark 2.4.5  ```
 
 ### Installation
 
