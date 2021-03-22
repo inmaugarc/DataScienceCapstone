@@ -54,7 +54,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-1. Unzip data files from mini_sparkify_event_data.7zip
+With this project you will practice to manipulate large datasets with Spark and engineer features to predict if a user will churn. 
+Also you will learn how to use Spark MLlib to prepare machine learning models and apply them to large datasets.
+Predicting churn is a problem that can be encountered all over the businesses. 
 
 ### Built With
 
@@ -71,11 +73,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * pip install requirements.txt
   ```sh
   pip install requirements.txt
-  ```
+* Spark 2.4.5  ```
 
 ### Installation
 
@@ -83,11 +84,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/inmaugarc/DataScienceCapstone.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
+2. Unzip data files from mini_sparkify_event_data.7zip
 
 
 <!-- USAGE EXAMPLES -->
@@ -107,18 +104,11 @@ These are the steps of this project
 This is the schema of the data format
 <img src="img/data_schema_sparkify.png" alt="Sparkify Data Format">
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/inmaugarc/DataScienceCapstone/issues) for a list of proposed features (and known issues).
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+See the [open issues](https://github.com/inmaugarc/DataScienceCapstone/issues) for a list of proposed features (and known issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -146,13 +136,7 @@ Project Link: [https://github.com/inmaugarc/DataScienceCapstone](https://github.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
+Thanks to Udacity for creating a real bit data project with practical application in several businesses. 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
