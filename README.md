@@ -72,13 +72,18 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Open a Jupyter Notebook and start running the code cells!
 
 <!-- PROJECT STEPS -->
 ## Steps
 These are the steps of this project
+
+First of all, I have uploaded the data into Spark.
+After that, I have done an Exploratory Data Analysis
+As a third step, I have managed the nulls values and made some transformations
+I have prepared the features that are important to determine if a user will churn or not
+Then I have build the models and finally I have trained and test the models.
+
 <img src="img/Sparkify_Steps.png" alt="Sparkify Steps">
 
 <!-- DATA SCHEMA -->
