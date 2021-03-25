@@ -79,9 +79,9 @@ Open a Jupyter Notebook and start running the code cells!
 These are the steps of this project
 
 First of all, I have uploaded the data into Spark.
-After that, I have done an Exploratory Data Analysis
-As a third step, I have managed the nulls values and made some transformations
-I have prepared the features that are important to determine if a user will churn or not
+After that, I have done an Exploratory Data Analysis.
+As a third step, I have managed the nulls values and made some transformations.
+I have prepared the features that are important to determine if a user will churn or not.
 Then I have build the models and finally I have trained and test the models.
 
 <img src="img/Sparkify_Steps.png" alt="Sparkify Steps">
