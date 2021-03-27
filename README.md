@@ -9,7 +9,7 @@
 
   <p align="left">
     Sparkify is an imaginary streaming music service, similar to Spotify or Pandora, where users listen to music with a free or a paid subscription plan. With the free plan, the user has to listen to advertising between songs. With the paid subscription, the user doesn't listen advertising between songs and also they can choose the song they want to listen to.
-<br>The goal of this project is predicting if a user will churn or not.
+<br>The goal of this project is predicting if a user will churn or not of our Music Streaming Sparkify service.
     <br />
     <a href="https://github.com/inmaugarc/DataScienceCapstone"><strong>Explore the docs »</strong></a>
     <br />
