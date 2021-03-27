@@ -94,7 +94,7 @@ This is the schema of the data format
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 See the [open issues](https://github.com/inmaugarc/DataScienceCapstone/issues) for a list of proposed features (and known issues).
 
 1. Fork the Project
@@ -123,7 +123,7 @@ Project BlogPost:[https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-Thanks to Udacity for creating a real bit data project with practical application in several businesses. 
+Acknowledgements and thanks to Udacity for creating a real big data project with practical application in several digital businesses. 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
