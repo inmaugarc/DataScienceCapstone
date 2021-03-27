@@ -95,10 +95,15 @@ This is the schema of the data format
 <!-- GRAPHIC EXPLORATION -->
 ## Graphic Exploration
 Let's see some graphics to understand the problem
-<img src="img/Activities_User.png" alt="Activities of a User">
+Is there any gender-related trend that could influence in churning?
 <img src="img/Gender by Churn.png" alt="Gender by Churn">
-<img src="img/Location by Churn.png" alt="Location and churn trend">
+Is there any difference between the OS of a user that could derive in churning?
 <img src="img/df_OS_by_subscription_type.png" alt="Operating System by User">
+What are the common activities a user does in our Sparkify music streaming service?
+<img src="img/Activities_User.png" alt="Activities of a User">
+Has the location of a user an influence on churn trend?
+<img src="img/Location by Churn.png" alt="Location and churn trend">
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
