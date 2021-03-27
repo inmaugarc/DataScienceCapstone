@@ -38,7 +38,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#roadmap">Data Schema</a></li>
+    <li><a href="#roadmap">Graphic Exploration</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -90,6 +91,14 @@ Then I have build the models and finally I have trained and test the models.
 ## Data Schema
 This is the schema of the data format
 <img src="img/data_schema_sparkify.png" alt="Sparkify Data Format">
+
+<!-- GRAPHIC EXPLORATION -->
+## Graphic Exploration
+Let's see some graphics to understand the problem
+<img src="img/Activities_User.png" alt="Activities of a User">
+<img src="img/Gender by Churn.png" alt="Gender by Churn">
+<img src="img/Location by Churn.png" alt="Location and churn trend">
+<img src="img/df_OS_by_subscription_type.png" alt="Operating System by User">
 
 <!-- CONTRIBUTING -->
 ## Contributing
