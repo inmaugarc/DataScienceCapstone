@@ -99,11 +99,11 @@ Let's see some graphics to understand the problem
 Is there any gender-related trend that could influence in churning?
 <br />
 <img src="img/Gender by Churn.png" alt="Gender by Churn">
-<br />Is there any difference between the OS of a user that could derive in churning?
+<br />Is there any difference between the OS of the device the user connects to our service from, and the type of subscription?
 <img src="img/df_OS_by_subscription_type.png" alt="Operating System by User">
 <br />What are the common activities a user does in our Sparkify music streaming service?
 <img src="img/Activities_User.png" alt="Activities of a User">
-<br />Has the location of a user an influence on churn trend?
+<br />Has the location of a user an influence on the type of subscription?
 <img src="img/Location by Churn.png" alt="Location and churn trend">
 
 
