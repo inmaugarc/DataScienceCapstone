@@ -149,7 +149,10 @@ Project BlogPost:[https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-Acknowledgements and thanks to Udacity for creating a real big data project with practical application in several digital businesses. 
+Acknowledgements and thanks to Udacity for creating a real big data project with practical application in several digital businesses.
+Also I got inspiration from Kaggle: https://www.kaggle.com/
+I used in several occasions Stackoverflow when I needed help with errors: https://stackoverflow.com/
+And I got information from Spark ML documentation http://spark.apache.org/docs/latest/ml-guide.html
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
