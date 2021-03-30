@@ -59,6 +59,8 @@ Predicting churn is a problem that can be encountered all over the businesses.
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+The main component is the file Sparkify.ipynb that is Jupyter Notebook that contains the code.
+The data source is in the file mini_sparkify_event_data.7zip, that you'll need to extract.
 
 
 ### Installation
