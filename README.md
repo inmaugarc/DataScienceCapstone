@@ -109,6 +109,8 @@ Is there any gender-related trend that could influence in churning?
 <img src="img/Location by Churn.png" alt="Location and churn trend">
 <br /> Is there a difference in membership time between the users who churned and who did not churn?
 ![image](https://user-images.githubusercontent.com/29020255/113059417-b5c7b300-91af-11eb-9fa0-5993aac4cfd5.png)
+![image](https://user-images.githubusercontent.com/29020255/113060144-91200b00-91b0-11eb-86d2-d7351e61fa2a.png)
+![image](https://user-images.githubusercontent.com/29020255/113061484-646cf300-91b2-11eb-8691-5f2a381cff0e.png)
 
 
 
