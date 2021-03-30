@@ -111,6 +111,9 @@ Is there any gender-related trend that could influence in churning?
 ![image](https://user-images.githubusercontent.com/29020255/113059417-b5c7b300-91af-11eb-9fa0-5993aac4cfd5.png)
 ![image](https://user-images.githubusercontent.com/29020255/113060144-91200b00-91b0-11eb-86d2-d7351e61fa2a.png)
 ![image](https://user-images.githubusercontent.com/29020255/113061484-646cf300-91b2-11eb-8691-5f2a381cff0e.png)
+![image](https://user-images.githubusercontent.com/29020255/113061548-82d2ee80-91b2-11eb-80a4-10e4bc89a31d.png)
+![image](https://user-images.githubusercontent.com/29020255/113061561-89f9fc80-91b2-11eb-850f-8ffc7fb5ef3e.png)
+
 
 
 
