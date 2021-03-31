@@ -146,6 +146,7 @@ Inma - [@linkedin](https://linkedin.com/in/inmaugarc) - inmaugarc@yahoo.es
 Project Link: [https://github.com/inmaugarc/DataScienceCapstone](https://github.com/inmaugarc/DataScienceCapstone)
 Project BlogPost:[https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5b]https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5b
 
+https://inmaug.medium.com/to-churn-or-not-to-churn-a377bb161c5b?source=your_stories_page-------------------------------------
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
