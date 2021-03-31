@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Inma - [@linkedin](https://linkedin.com/in/inmaugarc) - inmaugarc@yahoo.es
 
 Project Link: [https://github.com/inmaugarc/DataScienceCapstone](https://github.com/inmaugarc/DataScienceCapstone)
-Project BlogPost:[https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5b](https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5b)
+Project BlogPost:[https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5b]https://inmaug.medium.com/To Churn or not to Churn-a377bb161c5b
 
 
 <!-- ACKNOWLEDGEMENTS -->
