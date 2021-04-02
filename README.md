@@ -141,8 +141,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Inma - [@linkedin](https://linkedin.com/in/inmaugarc) - inmaugarc@yahoo.es
-
-<br />[@CodeLink](https://github.com/inmaugarc/DataScienceCapstone]
+<br />
+<br />[@CodeLink](https://github.com/inmaugarc/DataScienceCapstone)
 <br />[@BlogPost](https://inmaug.medium.com/to-churn-or-not-to-churn-a377bb161c5b?source=your_stories_page-------------------------------------)
 
 
