@@ -14,7 +14,6 @@
     <a href="https://github.com/inmaugarc/DataScienceCapstone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/inmaugarc/DataScienceCapstone">View Demo</a>
     ·
     <a href="https://github.com/inmaugarc/DataScienceCapstone/issues">Report Bug</a>
     ·
